@@ -1,0 +1,22 @@
+{
+  "models": [
+    {
+      "name": "OPENAI",
+      "environment_variable_name": "OPENAI",
+      "api_key":"",
+      "model_type":"judge"
+    },
+    {
+      "name": "LLAMA2",
+      "environment_variable_name": "LLAMA2",
+      "api_key":"",
+      "model_type":"candidate"
+    },
+    {
+      "name": "PALM2",
+      "api_key": "PALM2",
+      "api_key":"",
+      "model_type":"candidate"
+    }
+  ]
+}
